@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## A little about me
 
-You can use the [editor on GitHub](https://github.com/Uysal-Koyuncu/Uysal-Koyuncu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi there! My name is Zhu Yongzhe (Kevin) and I am a rising junior at University of Pennsylvania, Computer and Information Science department by Fall 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Places that mean a lot to me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Nanjing, my hometown. Cultivated my taste in both food and music.
+- Yangzhou, where I spend many summers with my family.
+- Philadelphia. Sweet home New College House. And all the cheesesteaks.
+- Praha (Prague), still roams the spirit of 5.
 
 ```markdown
 Syntax highlighted code block
